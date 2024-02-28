@@ -1,0 +1,226 @@
+head {
+  font-family: Helvetica;
+  text-align: center;
+  margin: auto;
+}
+.contenedorcabeza {
+  width: 1200px;
+  padding: 5px 15px 5px 15px;
+  
+  text-align: left;
+  margin: auto;
+  height: 50px;
+}
+.botones_cabeza {
+  text-decoration: none;
+  font-family: Helvetica;
+  display: inline-block;
+  vertical-align: top;
+}
+.mozilacabeza {
+    display: inline-block;
+  vertical-align: middle;
+}
+.cont_izquierda{
+    
+    float: left;
+}
+.logocabeza {
+  vertical-align: top;
+  padding: 8px 5px 15px 5px;
+}
+.Botonlink {
+  margin: 10px 15px;
+  font-size: 16;
+  font-weight: bold;
+  text-decoration: none;
+  color: rgb(67, 65, 65);
+  float: inline-start;
+  vertical-align: baseline;
+}
+.finalcabeza {
+  margin: 15px;
+float: right;
+  float: inline-end;
+}
+.descargarbot {
+  text-decoration: none;
+
+  font-size: 14px;
+  font-family: Helvetica;
+  padding: 4px 15px;
+  margin: 10px 15px;
+  border-bottom: 5px;
+  
+  border-radius: 7px;
+  vertical-align: bottom;
+}
+.limpiar{clear: both;}
+.contebody1 {display: inline-block;
+    vertical-align:top;
+    margin: auto;
+  width: 520px;
+  margin: 5px;
+  }
+.imgmozi {display: inline-block;
+    vertical-align:top;
+  width: 150px;
+  height: 60px;
+  
+}
+.titulo {
+  font-size: 34px;
+  font-weight: bold;
+  font-family: Helvetica;
+  color: #333;
+  margin: 3px;
+}
+.texto1 {
+  
+
+  font-family: Helvetica;
+  width: 550px;
+  color: rgb(58, 57, 57);
+}
+.parrafo1 {
+  font-size: 14px;
+  color: rgb(70, 69, 69);
+}
+.botondescarga {
+  font-family: Helvetica;
+  text-decoration: none;
+ 
+  font-size: 14px;
+  border-radius: 7px;
+  border-radius: 3px;
+  text-align: center;
+  padding: 8px 24px 8px 24px;
+  background-color: rgb(42, 42, 251);
+  color: rgb(255, 255, 255);
+}
+.parrafo2 {display: inline-block;
+  font-family: Helvetica;
+  padding: 2px 5px 2px 18px;
+  font-size: 10px;
+  color: rgb(123, 121, 121);}
+.contimagen1 {display: inline-block;
+ 
+margin: 0px 0px 0px 80px;}
+.compuimagne {
+    width: 500px;}
+.parte1{width: 1250px;
+     margin: auto;
+    border:rgb(21, 161, 174) 1px solid;
+   }
+   .partedino{height: 450px;
+     border-radius: 3px;
+    margin: auto;
+    width: 1200px;
+background-color: rgb(244, 244, 244);}
+.imgdino{  text-align: center;
+   vertical-align: top; width: 300px;
+text-align: end;  }
+.contenedordino{margin: 40px 10px 10px 280px;
+    
+    display: inline-block;
+width:max-content;}
+.textodino{ 
+    display: inline-block;
+    vertical-align: top;
+    width: 220px;}
+.titulodino{margin: 10px 1px 2px 20px;
+    line-height: 43px;
+    font-weight:bolder;
+    color: rgb(54, 53, 53);
+    text-align: center;
+    font-family: helvetica;
+ 
+    font-size: 31px;}
+.parradino1
+{line-height: 19px;
+    text-align:center;
+    
+font-size: 13px;
+color: rgb(70, 70, 70);}
+
+.titulo2{ margin: 5px 5px 3px 15px;
+    text-align: left;
+     font-size: 18px; font-weight: bold; color: #333;
+}
+.contendorabajo{width: 1200px ;
+height: 400px;
+margin: auto;
+
+}
+.derecha1{border-left: rgb(180, 178, 178) 1.5px solid;
+     line-height: 22px;
+    margin: 20px 5px 3px 55px;
+    
+     width: 500px;
+display: inline-block;
+vertical-align: top;
+font-family: helvetica; }
+
+.parrafo2{text-align: left;
+    font-size: 14px; color: rgb(132, 130, 130);
+}
+.derecha{ 
+    line-height: 22px;
+   margin: 20px 5px 3px 55px;
+ width: 500px;
+display: inline-block;
+vertical-align: top;
+font-family: helvetica; }
+.distancia{margin: 3px 3px 3px 45px;}
+.semifinal{ width: 1200px;
+margin: auto;
+
+height: 300px;}
+.pequeños{margin: 5px 85px 15px 20px;
+    display: inline-block;
+    vertical-align: top;
+    text-align:center;
+    width: 280px;
+height:280px;
+
+}
+.imgpeque{width: 90px;
+height: auto;}
+.parrafo3{font-family: helvetica;
+    text-align: center;
+    font-size: 14px; color: rgb(94, 94, 94);
+}
+.final{text-align:left;
+    height: 320px;
+    margin: 25px 10px; width: 1200px;
+;}
+
+ }
+.imputfinal{border: rgb(12, 241, 12) 1px solid;
+    width: 450px;height: 150px;
+   float: left;}
+
+.imgfinal{margin:5px 5px 5px 350px ;
+    width:220px;
+    height: 230px;
+float: left;
+}
+.parrafo4{font-weight: bold;
+    font-family: helvetica;
+   
+    font-size: 12px; color: rgb(0, 0, 0);
+}
+.input1{border: 1px rgba(59, 58, 58, 0.774) solid;
+    width: 280px;
+padding: 5px;
+border-radius: 2px;
+}
+ 
+.titulofinal{text-align: left;}
+.input2{
+    text-align: center;
+    background-color: black;color: rgb(255, 255, 255);
+    width: 280px;
+padding: 5px;
+border-radius: 2px;
+}
